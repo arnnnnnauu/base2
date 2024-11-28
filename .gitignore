@@ -1,0 +1,27 @@
+# Carpetes de complicació #
+#######################
+bin/
+obj/
+
+# Fitxers especifics de Visual Studio #
+############################
+.vs/
+.vscode/
+.idea/
+
+# Fitxers temporals de windows #
+##############################
+Thumbs.db
+ehthumbs.db
+
+# Fitxers de dependencies de Nuger #
+##############################
+.nuget/
+
+# Altres fitxers #
+############################
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
