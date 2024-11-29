@@ -6,7 +6,7 @@ class Program
     static void Main(string[] args)
     {
         // Crear un objecte Vehicle
-        Vehicle vehicle1 = new Vehicle("Model S", "Tesla", 2022, 250.0);
+        Vehicle vehicle1 = new Vehicle("Model KA", "Ford", 2022, 250.0);
 
         // Mostrar la informació del vehicle
         vehicle1.MostrarInformacio();
