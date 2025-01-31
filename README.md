@@ -1,1 +1,1 @@
-Arnau Truño i Roger Vilà
+Arnau Truñó i Roger Vilà
