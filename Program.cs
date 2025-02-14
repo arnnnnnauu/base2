@@ -9,7 +9,7 @@ class Program
         List<Vaixell> vaixells = new List<Vaixell>
         {
             new Vaixell("Explorer", "OceanX", 2015, 45, 12000),
-            new Vaixell("Voyager", "BlueWave", 2020, 60, 15000)
+            new Vaixell("Voyager", "BlueWave", 2021, 60, 15000)
         };
 
         List<Cotxe> cotxes = new List<Cotxe>
